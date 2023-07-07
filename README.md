@@ -2,7 +2,8 @@
 
 👋 Welcome to my TensorFlow Projects repository! This repository contains various machine learning projects implemented using TensorFlow, along with the datasets used and accompanying Jupyter notebooks. Each project is organized in a separate directory, making it easy to navigate and explore.
 
-## Note: Please note that I'm currently learning and I have done all these projects for my practice purposes. So it may also contain my courses exercises.
+## Note:
+Please note that I'm currently learning and I have done all these projects for my practice purposes during learning. So it may also contain my courses exercises.
 
 ## 📂 Repository Structure
 
