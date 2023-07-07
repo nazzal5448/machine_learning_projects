@@ -1,66 +1,52 @@
-# TensorFlow Projects Repository
+# Machine Learning Projects Repository
 
-👋 Welcome to my TensorFlow Projects repository! This repository contains various machine learning projects implemented using TensorFlow, along with the datasets used and accompanying Jupyter notebooks. Each project is organized in a separate directory, making it easy to navigate and explore.
-
-## Note:
-Please note that I'm currently learning and I have done all these projects for my practice purposes during learning. So it may also contain my courses exercises.
+👋 Welcome to my Machine Learning Projects repository! This repository contains a collection of machine learning projects and practice notebooks that I've coded during my learning journey. The projects are implemented using popular libraries such as **Scikit-learn** and **TensorFlow**, along with fundamental libraries like **Pandas**, **NumPy**, and **Matplotlib**.
 
 ## 📂 Repository Structure
 
-The repository is structured as follows:
+The repository is organized as follows:
 
 ```
-📦 tensorflow-projects-repo
- ┣ 📂 project-1
- ┃ ┣ 📂 dataset
- ┃ ┣ 📂 notebooks
- ┃ ┗ 📜 README.md
- ┣ 📂 project-2
- ┃ ┣ 📂 dataset
- ┃ ┣ 📂 notebooks
- ┃ ┗ 📜 README.md
- ┗ 📂 project-3
-   ┣ 📂 dataset
-   ┣ 📂 notebooks
-   ┗ 📜 README.md
+📦 machine-learning-projects-repo
+ ┣ 📂 scikit-learn
+ ┃ ┣ 📂 classification
+ ┃ ┗ 📂 regression
+ ┗ 📂 tensorflow
+   ┣ 📂 classification
+   ┗ 📂 regression
 ```
 
-Each project has its own dedicated directory, which contains the following components:
+Within each section, the projects are further divided based on their type: **classification** and **regression**. This structure helps you easily navigate through the repository and find the projects of interest to you.
 
-- 📂 **dataset**: This directory holds the datasets used in the project. You will find detailed information on each dataset within this folder.
-- 📂 **notebooks**: This directory contains Jupyter notebooks that demonstrate the implementation and usage of TensorFlow models for the specific project. These notebooks serve as a starting point for your exploration and experimentation.
-- 📜 **README.md**: The README file within each project directory provides specific information about the project, including its objectives, techniques used, and any additional instructions.
+## 🚀 Scikit-learn Projects
 
-## 🚀 Getting Started
+### Classification
 
-To get started, simply clone this repository to your local machine using the following command:
+#### 🌟 Project 1: Project Title
+📝 **Description:** Briefly describe the project and its objectives.
 
-```bash
-git clone https://github.com/your-username/tensorflow-projects-repo.git
-```
+#### 🌟 Project 2: Project Title
+📝 **Description:** Briefly describe the project and its objectives.
 
-Ensure that you have TensorFlow installed in your environment. If not, you can install it by following the instructions in the official [TensorFlow documentation](https://www.tensorflow.org/install). Additionally, some projects may require additional libraries or dependencies, which will be mentioned in their respective README files.
+### Regression
 
-## 📁 Project Overview
+#### 🌟 Project 3: Project Title
+📝 **Description:** Briefly describe the project and its objectives.
 
-### Project 1: Project Title
+#### 🌟 Project 4: Project Title
+📝 **Description:** Briefly describe the project and its objectives.
 
-📜 **README**: [project-1/README.md](./project-1/README.md)
+## 🚀 TensorFlow Projects
 
-Brief description or introduction of Project 1. Highlight its significance and purpose.
+### Classification
 
-### Project 2: Project Title
+#### 🌟 Project 5: Project Title
+📝 **Description:** Briefly describe the project and its objectives.
 
-📜 **README**: [project-2/README.md](./project-2/README.md)
+### Regression
 
-Brief description or introduction of Project 2. Highlight its significance and purpose.
-
-### Project 3: Project Title
-
-📜 **README**: [project-3/README.md](./project-3/README.md)
-
-Brief description or introduction of Project 3. Highlight its significance and purpose.
-
+#### 🌟 Project 6: Project Title
+📝 **Description:** Briefly describe the project and its objectives.
 
 ## 📃 License
 
@@ -68,6 +54,6 @@ This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) 
 
 ## 📧 Contact
 
-If you have any questions or suggestions regarding this repository, feel free to reach out to me at [nazzal5448@gmail.com](mailto:nazzal5448@gmail.com). I would be happy to assist you!
+If you have any questions, suggestions, or feedback, feel free to reach out to me at [nazzal5448@gmail.com](mailto:nazzal5448@gmail.com). I would be happy to connect with you!
 
-Happy coding! ✨🚀
+Happy learning and coding! 🚀✨
