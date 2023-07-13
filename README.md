@@ -14,6 +14,7 @@ The repository is organized as follows:
  ┗ 📂 tensorflow
    ┣ 📂 classification
    ┗ 📂 regression
+   ┗ 📂 tarnsfer_learning
 ```
 
 Within each section, the projects are further divided based on their type: **classification** and **regression** and also on the basis of the concepts like **Feature Extraction** etc. This structure helps you easily navigate through the repository and find the projects of interest to you.
@@ -64,7 +65,8 @@ This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) 
 📝 **Description:** Contains my practice notebooks in parts.
 
 #### 🌟 Part 1: Feature Extraction:
-📝 **Description:** Contains a notebook on transfer_learning's concept **Feature Extraction**. Also contains **Exercise** where i have developed a model for my custom dataset.
+📝 **Description:** Contains a notebook on transfer_learning's concept **Feature Extraction**.
+   **Exercise** where i have tried a model on `food` and have tried `ResNet_152` on my custom dataset.
 
 ## 📧 Contact
 
