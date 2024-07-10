@@ -32,6 +32,7 @@ Within each section, the projects are further divided based on their type: **cla
 
 ## 🚀 TensorFlow Projects
 
+
 ### Introduction:
 📝 **Description:** This contains an introductory notebook to deep learning and tensorflow and a small project at the end of notebook.
 
@@ -67,6 +68,13 @@ This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) 
 #### 🌟 Part 1: Feature Extraction:
 📝 **Description:** Contains a notebook on transfer_learning's concept **Feature Extraction**.
    **Exercise** where i have tried a model on `food` and have tried `ResNet_152` on my custom dataset.
+
+## Certificates:
+### Tensorflow:
+![certificate](https://github.com/nazzal5448/machine_learning_projects/assets/98973132/fffe4ef9-c126-4d1d-87b5-77f0f90a7137)
+
+### Scikit-Learn
+![scikit](https://github.com/nazzal5448/machine_learning_projects/assets/98973132/620e2b51-4d2f-4da1-9489-c957ffda7067)
 
 ## 📧 Contact
 
