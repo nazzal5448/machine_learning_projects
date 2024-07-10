@@ -69,11 +69,11 @@ This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) 
 📝 **Description:** Contains a notebook on transfer_learning's concept **Feature Extraction**.
    **Exercise** where i have tried a model on `food` and have tried `ResNet_152` on my custom dataset.
 
-## Certificates:
-### Tensorflow:
+## Certificates🥇:
+### Tensorflow 🚀
 ![certificate](https://github.com/nazzal5448/machine_learning_projects/assets/98973132/fffe4ef9-c126-4d1d-87b5-77f0f90a7137)
 
-### Scikit-Learn
+### Scikit-Learn 💻:
 ![scikit](https://github.com/nazzal5448/machine_learning_projects/assets/98973132/620e2b51-4d2f-4da1-9489-c957ffda7067)
 
 ## 📧 Contact
